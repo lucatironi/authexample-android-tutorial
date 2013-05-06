@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">AuthExample</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_new_task">New Task</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_activity_home">AuthExample</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_new_task">New Task</string>
+    <string name="title_activity_preferences">Preferences</string>
+    <string name="title_activity_dialog_error">Error</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="confirm">Are you sure you want to complete this action?</string>
+    <string name="save">Save</string>
+    <string name="user_name">Username</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Password</string>
+    <string name="user_password_confirmation">Confirm Password</string>
+    <string name="task_title">Task Title</string>
+    <string name="welcome_title">Welcome to the app!</string>
+    <string name="welcome_text">Please select an option to start using it!</string>
+    <string name="register_disclaimer">Your email address will always remain private. By clicking Register you are indicating that you have read and agree to the Terms of Service.</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
